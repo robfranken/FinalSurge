@@ -1,0 +1,136 @@
+---
+title: "**Informatiebrief**"
+output: 
+  html_document:
+    toc: false
+    toc_float: true
+    collapsed: false
+    number_sections: false
+    toc_depth: 1
+---
+<br>  
+  
+
+  
+  
+## voor deelname aan het wetenschappelijke onderzoek: 
+## *Krachtig RSC!*
+  
+
+----
+
+<br>
+
+# **1a. Introductie**
+Dit onderzoek wordt uitgevoerd door de afdelingen Sociologie en Orthopedagogiek: Leren en Ontwikkeling van de Radboud Universiteit, met onderzoeksleiders Rob Franken, dr. Hidde Bekhuis en prof. dr. Jochem Tolsma. Het doel van dit onderzoek is om inzicht te krijgen in hoe, onder andere, het gebruik van (online) fitness-apps, kan aanzetten tot blijvende sportdeelname.
+
+
+<br>
+
+# **1b. Het onderzoek**
+Jij start met een cursus Krachttraining bij het Radboud Sportcentrum. We willen je vragen om gedurende deze cursus - ongeveer 8 weken 0 gebruik te maken van de online fitness-app *Final Surge*. We vragen je om je trainingsactiviteiten bij te houden, in een virtueel logboek. Daarnaast kan het zijn dat je wordt gevraagd om je activiteiten te delen met de andere deelnemers aan de cursus. Bovendien kan het zijn dat je trainingsactiviteiten van je mede-cursisiten te zien krijgt. 
+
+Voordat je begint met het bijhouden van het logboek, vragen we je om een korte (online) vragenlijst in te vullen. Hierin vragen we je onder andere naar je voorgaande ervaring met sport apps, naar je trainingsverleden, en je huidige motivaties om te sporten/trainen.
+
+Na afloop van de cursus leggen we je graag nogmaals een korte vragenlijst voor, waarin we je vragen om het gebruik van de app, en (indien van toepassing) het online netwerk, te evalueren. 
+
+Dit onderzoek is onafhankelijk getoetst door de Ethiek Commissie Sociale Wetenschappen (ECSW) van de Radboud Universiteit, en er is formeel geen bezwaar tegen dit onderzoek.
+
+<br>
+
+# **2a. Gebruik van je persoonsgegevens**
+Voor het huidige onderzoek is het nodig om de over jouw verzamelde gegevens door het Radboud Sport Centrum (RSC) te gebruiken. Het gaat daarbij om het aantal ticketuren, cursussen en fitnessbezoeken. Verder is het nodig dat je persoonsgegevens worden verzameld en gebruikt. Het gaat om je e-mailadres en je studenten- (S-) nummer. Deze gegevens worden gebruikt om jouw vragenlijstgegevens te koppelen aan de RSC-gegevens, en om je te kunnen benaderen voor de tweede vragenlijst van dit onderzoek.
+In het toestemmingsformulier word je gevraagd om toestemming te geven voor het verzamelen, gebruiken en bewaren van bovengenoemde gegevens. Als je hier niet mee instemt, kun je niet deelnemen aan het onderzoek.
+
+<br>
+
+# **2b. Vertrouwelijkheid van je gegevens en gegevensverwerking**
+De informatie die je verstrekt ten behoeve van het onderzoek wordt zorgvuldig behandeld en is alleen toegankelijk voor de onderzoeksleiders. Persoonsgegevens die wij tijdens het onderzoek over je verzamelen, blijven vertrouwelijk. Om je privacy te waarborgen slaan we je persoonsgegevens gecodeerd/gepseudonimiseerd op. Dat betekent dat je naam en andere gegevens die jou direct kunnen identificeren apart van de onderzoeksgegevens worden bewaard. Alleen middels een code of proefpersoonnummer is te achterhalen welke onderzoeksgegevens bij welke persoon horen. De link tussen gegevens die jou direct kunnen identificeren en de overige onderzoeksgegevens wordt opgeslagen in een geëncrypt sleutelbestand. Alleen de onderzoeksleiders hebben toegang tot deze informatie. In rapporten en publicaties over het onderzoek worden alleen je geanonimiseerde onderzoeksgegevens vermeld.
+
+<br>
+
+# **2c. Bewaartermijn van je gegevens**
+Nadat jij de tweede vragenlijst hebt ingevuld, na afloop van de cursus (rond week 8), wordt een geanonimiseerde versie van de gegevens uit dit onderzoek gedeponeerd. Dit betekent dat je niet (meer) te identificeren bent op basis van je persoonlijke gegevens. Je kunt op elk moment je toestemming om benaderd te worden intrekken, of verzoeken om je persoonlijke data te laten verwijderen, zonder opgaaf van redenen. Neem hiervoor contact op met de onderzoeksleiders (rob.franken@ru.nl). Dan zullen we de gegevens die je reeds hebt verstrekt verwijderen. Echter, nadat een geanonimiseerde dataset gedeponeerd is, is het niet meer mogelijk om data te verwijderen, aangezien deze alleen nog anoniem bewaard blijft. Wij weten dan dus niet meer welke onderzoeksgegevens bij jou horen. De geanonimiseerde gegevens uit dit onderzoek zullen openbaar worden gemaakt via (DANS EASY).
+
+<br>
+
+
+# **3. Vrijwillige deelname**
+Je deelname aan dit onderzoek is geheel vrijwillig. Als je besluit om niet deel te nemen aan dit onderzoek heeft dit geen nadelige gevolgen voor je. Ook tijdens het onderzoek heb je altijd het recht om je toestemming in te trekken en je deelname te beëindigen. Ook dit heeft geen nadelige gevolgen.
+
+<br>
+
+# **4. Vergoeding of opbrengst**
+Je deelname aan dit onderzoek wordt erg op prijs gesteld. De kennis die we vergaren op basis van jouw deelname helpt het Radboud Sportcentrum en andere organisaties om interventies of programma’s te ontwikkelen waarmee een blijvend actieve leefstijl worden gepromoot. Om deelnemers te bedanken, ontvangen ze (1) een bol.com waardebon t.w.v. 5 euro na het (volledig) invullen van de eerste vragenlijst en het (volledig) voltooiien van de aanmeldprocedure van Final Surge. We zijn er vooral bij gebaat als jij gedurende de cursus je activiteiten trackt, en je ervaringen met ons deelt. Daarom willen we je een een bol.com waardebon t.w.v. 10 euro aanbieden als blijkt dat je je activiteiten hebt getrackt en als je de tweede vragenlijst invult. 
+
+verloten we 10x een jaarabonnement bij het Radboud Sportcentrum (t.w.v. €123,-). De loterij is na afloop van het collegejaar (augustus 2022 en 2023). Als je prijswinnaar bent, betaal je zelf aan het RSC het jaarabonnement; wij zorgen dat de finaciële compensatie (123 euro) naar jou wordt overgemaakt. We zijn er vooral bij gebaat als jij meerdere vragenlijsten invult, zodat we veranderingen over de tijd kunnen observeren. Daarom willen we je een tegoedbon aanbieden als je naast de eerste, ook de tweede en derde vragenlijst invult.
+
+<br>
+
+# **5. Contactinformatie **
+Bij vragen, opmerkingen of zorgen over deze studie, kun je contact opnemen met de verantwoordelijke onderzoeker: Rob Franken (Radboud Universiteit Nijmegen, afdeling Sociologie; rob.franken@ru.nl).
+
+<br> 
+
+# **6. Afsluiting **
+Met sportieve groet,
+
+<br>
+
+Rob Franken
+
+Dr. Hidde Bekhuis
+
+Prof. dr. Jochem Tolsma
+
+<br>
+
+----
+
+----
+
+<br>
+
+# **TOESTEMMINGSVERKLARING**
+
+voor deelname aan het wetenschappelijke onderzoek: 
+*De impact van sport apps* 
+
+**Ik bevestig dat**:
+
+- ik schriftelijk naar tevredenheid over het onderzoek geïnformeerd ben;
+
+- ik de schriftelijke informatie goed heb gelezen;
+
+- ik in de gelegenheid ben gesteld om vragen over het onderzoek te stellen;
+
+- mijn eventuele vragen naar tevredenheid zijn beantwoord;
+
+- ik goed over deelname aan het onderzoek heb kunnen nadenken;
+
+- ik uit vrije wil deelneem aan het onderzoek.
+
+**Ik begrijp dat**:
+
+- ik het recht heb om mijn toestemming op ieder moment weer in te trekken zonder opgave van redenen en zonder dat dit nadelige gevolgen voor mij heeft, door contact op te nemen met Rob Franken via rob.franken@ru.nl;
+
+- ik het recht heb op vernietiging van mijn onderzoeksgegevens tot 1 maand na afronding van het onderzoek;
+
+- ik het recht heb om mijn toestemming voor de (verdere) verwerking van mijn persoonsgegevens in te trekken; mijn persoonsgegevens worden verwerkt volgens de geldende Europese privacyregelgeving;
+- mijn persoonsgegevens worden verwerkt volgens de [privacyverklaring](https://www.ru.nl/vaste-onderdelen/privacyverklaring-radboud-universiteit) van de Radboud Universiteit ;
+
+**Ik stem in dat**:
+
+- mijn persoons- en/of onderzoeksgegevens binnen dit onderzoek voor wetenschappelijke doelen worden verkregen en gedurende 2 jaar beschikbaar zullen zijn voor controle, hergebruik en replicatie;
+
+- het ondertekende toestemmingsformulier met mijn persoonsgegevens gedurende 2 jaar wordt bewaard;
+
+- mijn persoonsgegevens welke uitsluitend voor administratieve doelen worden verkregen tot maximaal 1 maand na afronding van het onderzoek worden bewaard. Administratieve doelen houden onder meer in: om je te kunnen uitnodigen voor vragenlijst tijdens dit onderzoek;
+
+- voor de controle van het onderzoek toezichthoudende autoriteiten mijn persoons- en onderzoeksgegevens kunnen inzien.
+
+**Daarnaast geef ik ook toestemming**:
+
+- voor het verwerken van de volgende (bijzondere) persoonsgegevens over mij:
+De door het Radboud Sportcentrum (RSC) verzamelde data, over het aantal fitnessbezoeken, ticketuren, en cursussen.
+

@@ -1,0 +1,25 @@
+name: "Krachtig RSC!"
+favicon: favicon.ico
+navbar:
+  left:
+    - icon: fa-home
+      href: index.html
+    - text: "Meer informatie"
+      menu:
+      - text: "Informatiebrief"
+        href: consent2.html
+      - text: "Toestemmingsformulier"
+        href: form.html
+    - text: "Final Surge"
+      menu:
+      - text: "instructies"
+      - text: "bladiebla..."
+    - text: "Contact"
+      menu:
+      - text: "E: rob.franken@ru.nl"
+      - text: "T: 024–3612512"
+output:
+  html_document:
+    theme: cerulean 
+    highlight: default
+output_dir: "docs"
