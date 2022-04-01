@@ -1,0 +1,15 @@
+---
+title: "**Final Surge**"
+output: 
+  html_document:
+    toc: false
+    toc_float: true
+    collapsed: false
+    number_sections: false
+    toc_depth: 1
+---
+<br>  
+
+Hier de app uitleggen met plaatjes (kalender, message board, inbox; social wall?; en het voornaamste: hoe upload je een activiteit?)
+
+

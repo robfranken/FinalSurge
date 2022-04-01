@@ -12,9 +12,10 @@ navbar:
         href: form.html
     - text: "Final Surge"
       menu:
-      - text: "instructies"
+      - text: "Installatie & registratie"
         href: app.html
-      - text: "bladiebla..."
+      - text: "Uitleg & instructies"
+        href: app2.html
     - text: "Contact"
       menu:
       - text: "E: rob.franken@ru.nl"
