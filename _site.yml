@@ -13,6 +13,7 @@ navbar:
     - text: "Final Surge"
       menu:
       - text: "instructies"
+        href: app.html
       - text: "bladiebla..."
     - text: "Contact"
       menu:
