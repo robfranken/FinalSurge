@@ -22,7 +22,7 @@ De app heeft vijf tabbladen onder in het scherm:
 - *My workouts*: dit is je logboek waar je al je activiteiten kunt terugvinden
 
 <p class="aligncenter">
-    <img src="images/myworkouts.jpg" alt="my workouts" style="height: 20%; width:20%;"/>
+    <img src="images/myworkouts.jpg" alt="my workouts" style="height: 40%; width:40%;"/>
 </p>
 
 <br>
@@ -31,7 +31,7 @@ De app heeft vijf tabbladen onder in het scherm:
 
 
 <p class="aligncenter">
-  <img src="images/summary.jpg" alt="summary" style="height: 20%; width:20%;"/>
+  <img src="images/summary.jpg" alt="summary" style="height: 40%; width:40%;"/>
 </p>
 
 <br>
@@ -50,9 +50,34 @@ De app heeft vijf tabbladen onder in het scherm:
 - *Settings*: hier kun je je Mailbox inzien. Je kunt ook je account personaliseren (bijv., primaire sport en taal).
 
 <p class="aligncenter">
-    <img src="images/settings.jpg" alt="settings" style="height: 20%; width:20%;"/>
+    <img src="images/settings.jpg" alt="settings" style="height: 40%; width:40%;"/>
 </p>
 
 <br>
 
+## Instructie
 
+We willen je vragen om al je sportactiviteiten bij te houden in de app. 
+
+Dat doe je onder *My workouts* > **(+)** (rechtsbovenin je scherm).
+
+<br>
+
+Vul het volgende in (zie voorbeeld onderaan de pagina):
+
+- type activiteit (*Activity type*)
+
+- hoe lang de activiteit duurde (*Duration*). Als je dit niet invoert, registreet de app jouw activiteit niet als voltooid!
+
+- hoe je voelde tijdens de workout (*How I felt*)
+
+- de mate van inspanning (*Perceived effort*), op een schaal van 0 (lichte inspanning) tot 10 (maximale inspanning).
+
+Druk op *Add* om de activiteit op te slaan.
+
+
+<p class="aligncenter">
+    <img src="images/example.jpg" alt="example" style="height: 40%; width:40%;"/>
+</p>
+
+<br>
