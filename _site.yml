@@ -7,15 +7,15 @@ navbar:
     - text: "Meer informatie"
       menu:
       - text: "Informatiebrief"
-        href: consent2.html
+        href: informatie.html
       - text: "Toestemmingsformulier"
-        href: form.html
+        href: toestemming.html
     - text: "Final Surge"
       menu:
       - text: "Installatie & registratie"
-        href: app.html
+        href: FinalSurge.html
       - text: "Uitleg & instructies"
-        href: app2.html
+        href: instructie.html
     - text: "Contact"
       menu:
       - text: "E: rob.franken@ru.nl"
