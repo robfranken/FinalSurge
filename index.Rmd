@@ -15,8 +15,6 @@ output:
 
 ![](images/rsc.png)
 
-  
-<br>
 
 ## Achtergrond
 
