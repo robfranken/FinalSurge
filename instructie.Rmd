@@ -67,9 +67,9 @@ Vul het volgende in (zie voorbeeld onderaan de pagina):
 
 - type activiteit (*Activity type*)
 
-- hoe lang de activiteit duurde (*Duration*). Als je dit niet invoert, registreet de app jouw activiteit niet als voltooid!
+- hoe lang de activiteit duurde (*Duration*). Als je dit niet invoert, registreert de app jouw activiteit niet als voltooid!
 
-- hoe je voelde tijdens de workout (*How I felt*)
+- hoe je je voelde tijdens de workout (*How I felt*)
 
 - de mate van inspanning (*Perceived effort*), op een schaal van 0 (lichte inspanning) tot 10 (maximale inspanning).
 
