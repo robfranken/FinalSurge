@@ -1,6 +1,6 @@
 ---
 title: "**Krachtig RSC!**" 
-subtitle: "een onderzoek naar sportdeelname onder krachttrainers"
+subtitle: "een onderzoek naar sportdeelname onder krachtsporters"
 output: 
   html_document:
     toc:  false
