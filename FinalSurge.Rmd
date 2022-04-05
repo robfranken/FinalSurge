@@ -72,7 +72,7 @@ output:
 
 
 
-Op deze pagina vind je instructies voor het installeren van de app *Final Surge* voor je Android of iOS smartphone, en het klaarmaken van je account.
+Een onderdeel van deze studie is het bijhouden van je sportactiviteiten in de fitness-app *Final Surge*. Op deze pagina vind je instructies voor het installeren van deze app  voor je Android of iOS smartphone, en het klaarmaken van je account.
 
 Je moet de volgende stappen verrichten.
 
@@ -112,7 +112,7 @@ Je ontvangt binnen een aantal dagen van ons een coachingsverzoek in de app. We z
 
 <br>
 
-Instructies over de functionaliteiten van de app, en voor het bijhouden van je activiteiten, vind je [hier](https://www.krachtigrsc.nl/instructie.html).
+Instructies over de functionaliteiten van de app, en voor het bijhouden van je activiteiten, vind je [hier](https://www.krachtigrsc.nl/instructie).
 
 
 
