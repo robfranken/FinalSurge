@@ -12,7 +12,7 @@ output:
 
 ## Instructie
 
-We willen je vragen om al je sportactiviteiten bij te houden in de app. 
+We willen je vragen om al je sportactiviteiten bij te houden in de app.
 
 Dat doe je onder *My workouts* > **(+)** (rechtsbovenin je scherm).
 
@@ -36,3 +36,6 @@ Druk op *Add* om de activiteit op te slaan.
 </p>
 
 <br>
+
+
+Meer informatie over de functionaliteiten van de app, vind je [hier](https://www.krachtigrsc.nl/extrainfo).
