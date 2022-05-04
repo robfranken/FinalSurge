@@ -18,7 +18,7 @@ Dat doe je onder *My workouts* > **(+)** (rechtsbovenin je scherm).
 
 <br>
 
-Vul het volgende in (zie voorbeeld onderaan de pagina):
+Vul ten minste het volgende in (zie voorbeeld onderaan de pagina):
 
 - type activiteit (*Activity type*)
 
