@@ -41,15 +41,15 @@ De app heeft vijf tabbladen onder in het scherm:
 
 <br>
 
-- *Social Wall*: hier heb je de mogelijkheid om je activiteiten te delen met je groepsgenoten, de activiteiten van hen in te zien, en met elkaar communiceren via *likes* en reacties bij activiteiten. De Social Wall is voorlopig (nog) niet geactiveerd. 
+- *Social Wall*: hier heb je de mogelijkheid om je activiteiten te delen met je groepsgenoten, de activiteiten van hen in te zien, en met elkaar te communiceren via *likes* (duimpjes) en reacties bij activiteiten. De Social Wall is voorlopig (nog) niet geactiveerd. 
 
 <br>
 
-- *Data*: in dit tabblad krijg je nog meer gedetailleerde informatie over, o.a., hartslagdata. Dit is voornamelijk nuttig als je de app gesynchroniseerd hebt met een smartwatch. Voor krachtsporters waarschijnlijk minder nuttig.
+- *Data*: in dit tabblad krijg je nog meer gedetailleerde informatie over, o.a., hartslagdata. Dit is voornamelijk nuttig als je de app gesynchroniseerd hebt met een smartwatch. Voor krachtsporters, zoals jij, waarschijnlijk minder nuttig.
 
 <br>
 
-- *Settings*: hier kun je je Mailbox inzien. Je kunt ook je account personaliseren (bijv., primaire sport en taal).
+- *Settings*: hier kun je je Mailbox inzien. We zullen je een (privé) bericht sturen met, nogmaals, instructies voor deelname. Onder dit tabblad, kun je ook je account personaliseren (bijv., primaire sport en taal instellen).
 
 <p class="aligncenter">
     <img src="images/settings.jpg" alt="settings" style="height: 40%; width:40%;"/>

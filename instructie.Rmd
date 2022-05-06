@@ -12,7 +12,7 @@ output:
 
 ## Instructie
 
-We willen je vragen om al je sportactiviteiten bij te houden in de app.
+We willen je vragen om **al je sportactiviteiten** bij te houden in de app (de cursusles, zelfstandige fitnessbezoeken, rondjes hardlopen, etc.).
 
 Dat doe je onder *My workouts* > **(+)** (rechtsbovenin je scherm).
 
