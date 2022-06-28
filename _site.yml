@@ -19,6 +19,9 @@ navbar:
       - text: "Extra informatie"
         href: extrainfo.html
         
+    - text: "Debriefing"
+      href: debriefing.html
+      
     - text: "Contact"
       menu:
       - text: "E: rob.franken@ru.nl"

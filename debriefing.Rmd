@@ -1,0 +1,48 @@
+---
+title: "**Debriefingsformulier**"
+output: 
+  html_document:
+    toc: false
+    toc_float: true
+    collapsed: false
+    number_sections: false
+    toc_depth: 1
+---
+<br>  
+
+  
+
+----
+
+<br>
+
+
+Bedankt voor je deelname aan het onderzoeksproject *Krachtig RSC!* Het doel van dit onderzoek is om na te gaan hoe sporters elkaar beïnvloeden om actief te blijven.
+
+We hebben aan alle deelnemers gevraagd om hun activiteiten bij te houden in Final Surge. Deelnemers aan sommige cursusgroepen hebben we daarnaast blootgesteld aan een experimentele prikkel in de app:
+
+- Deelnemers in de *vergelijking*-groep kregen wekelijks een bericht met daarin een scoreboard op basis van de hoe vaak en hoe lang zij en hun groepsgenoten die betreffende week hadden gesport.
+
+- Deelnemers in de *support*-groep hadden toegang tot een Social Wall. Zij werden gevraagd om hun activiteiten met elkaar te delen en elkaar te motiveren door likes en reacties achter te laten bij gedeelde activiteiten.
+
+De verwachting is dat puur het bijhouden van je activiteiten (de *controle*-groep) motiverend werkt, doordat dit inzicht geeft in je prestaties en progressie. Maar daarbovenop verwachten we nog een positief effect van de sociale stimuli (*vergelijking* en *support*). 
+
+
+De huidige studie was een pilot. Volgend jaar willen we - op basis van jullie ervaringen en de eerste resultaten - het onderzoek aanscherpen en opschalen. Omdat het onderzoek nog loopt, zouden we het enorm waarderen als je de informatie in deze brief niet deelt met anderen. We vragen dus je kennis van dit onderzoek vertrouwelijk te houden. 
+
+Als je vragen of opmerkingen hebt over dit onderzoek, schroom dan niet om contact op te nemen met Rob Franken (rob.franken@ru.nl). 
+
+<br>
+
+
+Met sportieve groet,
+
+<br>
+
+ook namens dr. Hidde Bekhuis en prof. dr. Jochem Tolsma,
+
+Rob Franken
+
+<br>
+
+----
