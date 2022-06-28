@@ -10,47 +10,7 @@ output:
 ---
 <br>  
 
-<<<<<<< HEAD
-<style>
-.aligncenter {
-    text-align: center;
-}
-</style>
 
-
-De app heeft vijf tabbladen onder in het scherm:
-
-- *My workouts*: dit is je logboek waar je al je activiteiten kunt terugvinden.
-
-<p class="aligncenter">
-    <img src="images/myworkouts.jpg" alt="my workouts" style="height: 40%; width:40%;"/>
-</p>
-
-
-- *Summary*: dit tabblad geeft een samenvatting van het aantal workouts, en de totale duur van je activiteiten. Je kunt dit uitsplitsen naar activiteit-type (krachttraining, hardlopen, etc.). Met de tabbladen boven in het scherm kun je inzicht krijgen in data over je hartslag, power, en snelheid. Dit is voornamelijk interessant voor wielrenners en hardlopers; niet zozeer voor krachttrainers. 
-
-
-<p class="aligncenter">
-  <img src="images/summary.jpg" alt="summary" style="height: 40%; width:40%;"/>
-</p>
-
-
-- *Social Wall*: hier heb je de mogelijkheid om je activiteiten te delen met je groepsgenoten, de activiteiten van hen in te zien, en met elkaar te communiceren via *likes* en reacties bij gedeelde activiteiten. De Social Wall is (nog) niet geactiveerd!
-
-
-- *Data*: in dit tabblad krijg je nog meer gedetailleerde informatie over, o.a., hartslagdata. Dit is voornamelijk nuttig als je de app gesynchroniseerd hebt met een instrument dat deze gegevens automatisch voor je trackt, zoals een smartwatch. Dit is, wederom, minder nuttig voor krachttraining. 
-
-
-- *Settings*: hier kun je je Mailbox inzien. Je kunt ook je account personaliseren (bijv., primaire sport en taal aanpassen).
-
-<p class="aligncenter">
-    <img src="images/settings.jpg" alt="settings" style="height: 40%; width:40%;"/>
-</p>
-
-<br>
-
-=======
->>>>>>> a8c5e91b49aa0766a46f9262a1f64c0c7cbe7379
 ## Instructie
 
 We willen je vragen om **al je sportactiviteiten** bij te houden in de app (de cursusles, zelfstandige fitnessbezoeken, rondjes hardlopen, etc.).
