@@ -10,6 +10,7 @@ output:
 ---
 <br>  
 
+<<<<<<< HEAD
 <style>
 .aligncenter {
     text-align: center;
@@ -48,14 +49,16 @@ De app heeft vijf tabbladen onder in het scherm:
 
 <br>
 
+=======
+>>>>>>> a8c5e91b49aa0766a46f9262a1f64c0c7cbe7379
 ## Instructie
 
-We willen je vragen om al je sportactiviteiten bij te houden in de app. 
+We willen je vragen om **al je sportactiviteiten** bij te houden in de app (de cursusles, zelfstandige fitnessbezoeken, rondjes hardlopen, etc.).
 
 Dat doe je onder *My workouts* > **(+)** (rechtsbovenin je scherm).
 
 
-Vul het volgende in (zie voorbeeld onderaan de pagina):
+Vul ten minste het volgende in (zie voorbeeld onderaan de pagina):
 
 - type activiteit (*Activity type*)
 
@@ -73,3 +76,6 @@ Druk op *Add* om de activiteit op te slaan.
 </p>
 
 <br>
+
+
+Meer informatie over de functionaliteiten van de app, vind je [hier](https://www.krachtigrsc.nl/extrainfo).

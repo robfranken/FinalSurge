@@ -1,0 +1,58 @@
+---
+title: "**Final Surge**"
+output: 
+  html_document:
+    toc: false
+    toc_float: true
+    collapsed: false
+    number_sections: false
+    toc_depth: 1
+---
+<br>  
+
+## Extra informatie
+
+<style>
+.aligncenter {
+    text-align: center;
+}
+</style>
+
+
+De app heeft vijf tabbladen onder in het scherm:
+
+- *My workouts*: dit is je logboek waar je al je activiteiten kunt terugvinden
+
+<p class="aligncenter">
+    <img src="images/myworkouts.jpg" alt="my workouts" style="height: 40%; width:40%;"/>
+</p>
+
+<br>
+
+- *Summary*: dit tabblad geeft een samenvatting van het aantal workouts, en de totale duur. Je kunt dit uitsplitsen naar activiteit-type (krachttraining, hardlopen, etc.). Met de tabbladen boven in het scherm kun je inzicht krijgen in data over je hartslag, power, en snelheid. Dit is voornamelijk interessant voor wielrenners en hardlopers; niet zozeer voor krachtsporters. 
+
+
+<p class="aligncenter">
+  <img src="images/summary.jpg" alt="summary" style="height: 40%; width:40%;"/>
+</p>
+
+<br>
+
+
+<br>
+
+- *Social Wall*: hier heb je de mogelijkheid om je activiteiten te delen met je groepsgenoten, de activiteiten van hen in te zien, en met elkaar te communiceren via *likes* (duimpjes) en reacties bij activiteiten. De Social Wall is voorlopig (nog) niet geactiveerd. 
+
+<br>
+
+- *Data*: in dit tabblad krijg je nog meer gedetailleerde informatie over, o.a., hartslagdata. Dit is voornamelijk nuttig als je de app gesynchroniseerd hebt met een smartwatch. Voor krachtsporters, zoals jij, waarschijnlijk minder nuttig.
+
+<br>
+
+- *Settings*: hier kun je je Mailbox inzien. We zullen je een (privé) bericht sturen met, nogmaals, instructies voor deelname. Onder dit tabblad, kun je ook je account personaliseren (bijv., primaire sport en taal instellen).
+
+<p class="aligncenter">
+    <img src="images/settings.jpg" alt="settings" style="height: 40%; width:40%;"/>
+</p>
+
+<br>

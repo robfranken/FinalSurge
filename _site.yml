@@ -14,8 +14,11 @@ navbar:
       menu:
       - text: "Installatie & registratie"
         href: FinalSurge.html
-      - text: "Uitleg & instructies"
+      - text: "Instructies uploaden activiteiten"
         href: instructie.html
+      - text: "Extra informatie"
+        href: extrainfo.html
+        
     - text: "Contact"
       menu:
       - text: "E: rob.franken@ru.nl"
